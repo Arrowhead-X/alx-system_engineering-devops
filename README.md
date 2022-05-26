@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+This repository contains all the executable files for the ALX shell basics tasks.
